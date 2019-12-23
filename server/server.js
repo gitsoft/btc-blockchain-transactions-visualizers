@@ -2,6 +2,7 @@
 
 var express = require('express');
 var app = express();
+require('dotenv').config()
 
 var server = require('http').Server(app);
 var path = require('path');

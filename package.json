@@ -23,6 +23,7 @@
   "dependencies": {
     "bcoin": "^0.15.0",
     "bower": "^1.7.9",
+    "dotenv": "^8.2.0",
     "express": "^4.13.4",
     "http": "0.0.0",
     "leveldown": "^1.5.3",
